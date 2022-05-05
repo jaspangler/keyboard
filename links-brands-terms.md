@@ -1,6 +1,8 @@
-drop.com
-kailh switches
-cherry mx switches
-gateron switches
-glorious https://www.pcgamingrace.com/
-QMK Firmware
+# Links, Brands, and Terms
+
+- drop.com
+- kailh switches
+- cherry mx switches
+- gateron switches
+- glorious https://www.pcgamingrace.com/
+- QMK Firmware
